@@ -1,6 +1,6 @@
 #cnnARMv7
 This is an optimized shared convolution kernel for ARM v7. Users can set the arguments from command line, including width, height, channels, padding, stride, filterSizeX, filterSizeY and numfilter.
-Other functions for CNN will be added.
+Other functions for CNN (transposed convolution, et al.) will be added.
 
 #Performance
 Single-precision test on Cortex-A15, single core.
